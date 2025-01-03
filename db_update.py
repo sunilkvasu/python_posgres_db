@@ -4,7 +4,7 @@
 # - To Insert data use: http://<hostname>:<port>/insert/<token>/<time>/<server>/<change>/<own>/<app>/<status>
 # - To Update table use: http://<hostname>:<port>/update/<token>/<time>/<server>/<change>/<own>/<app>/<status>
 # - Ensure the pip modules installed: flask, dotenv, psycopg2, os
-# - Author: Sunil Kamba Vasu(sunilkamba.vasu@flex.com)
+# - Author: Sunil Kamba Vasu(sunil.hclkv@gmail.com)
 #
 
 
